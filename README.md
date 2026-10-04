@@ -46,6 +46,6 @@ The goal is to equip retail store management with data-driven recommendations to
 ---
 
 ## 📁 How to View the Project
-1. Download the file [`Supermarket_Sales_Analysis.xlsx`](Supermarket_Sales_Analysis.xlsx).
+1. Download the file [`Supermarket_Sales_Analysis.xlsx`](SuperMarketAnalysis.xlsx).
 2. Open in Microsoft Excel.
 3. Interact with the **Branch** and **Customer Type** slicers on the `Dashboard` tab to filter metrics across the entire dataset.
