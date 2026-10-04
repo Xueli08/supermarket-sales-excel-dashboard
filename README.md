@@ -9,7 +9,7 @@ The goal is to equip retail store management with data-driven recommendations to
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Overview](dashboard1.png)
+![Dashboard Overview](dashboard1.jpeg)
 
 ---
 
